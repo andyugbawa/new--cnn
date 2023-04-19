@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-container{
+    background-color: black;
+    height: 315px;
+    display:flex;
+   
+
+}
+.nav-image{
+    padding-top: 90px;
+    margin-left: 180px;
+}
+.nav-content{
+    flex-direction: row;
+    justify-content: center;
+   
+
+}
+
+#andy{
+  display:flex; 
+  justify-content: center; 
+}
